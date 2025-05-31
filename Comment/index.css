@@ -1,0 +1,28 @@
+.woocommerce ul.products li.product a img {
+  width: 100%;
+  height: 300px;
+  object-fit: contain;
+  display: block;
+  padding: 1em;
+  box-shadow: none;
+  background-color: #f8f8f8; /* optional: jodi background empty thake */
+}
+
+.elementor-317 .elementor-element.elementor-element-5c9cee03.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-317 .elementor-element.elementor-element-5c9cee03.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{
+text-align: left;
+}
+
+
+.elementor-317 .elementor-element.elementor-element-5c9cee03.elementor-wc-products ul.products li.product .price{
+margin-top: 20px;
+padding-right: 10px;
+text-align: right;
+}
+
+.elementor-317 .elementor-element.elementor-element-5c9cee03.elementor-wc-products ul.products li.product .button{
+margin-left: 40px;
+}
+
+.elementor-317 .elementor-element.elementor-element-5c9cee03.elementor-wc-products ul.products li.product .price span{
+margin : 2px
+}
