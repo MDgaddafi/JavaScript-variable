@@ -43,8 +43,12 @@ const meBookRead = true;
 const firendBookRead = false;
 const isBookRead = meBookRead == firendBookRead;
 
+const progamming1 = "hello";
+const progamming2 = 'Hello';
+const isProgamming = progamming1 === progamming2;
 
 
+console.log(isProgamming);
 console.log(isBookRead);
 console.log(isname);
 console.log(totalGol);
